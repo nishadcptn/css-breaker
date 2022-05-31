@@ -1,0 +1,12 @@
+{
+  "name": "style-breaker",
+  "version": "1.0.0",
+  "description": "packege to implement style break points dynamically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nishad cp",
+  "license": "ISC"
+}
